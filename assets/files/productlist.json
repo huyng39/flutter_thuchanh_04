@@ -1,0 +1,76 @@
+{
+    "data":
+    [
+        {
+            "id": 1,
+            "name": "Iphone 1",
+            "price": 15000000,
+            "img": "img_01.png",
+            "des": "Iphone 15 đen (1)"
+        },
+        {
+            "id": 2,
+            "name": "Iphone 2",
+            "price": 15000000,
+            "img": "img_02.png",
+            "des": "Iphone 15 đen (2)"
+        },
+        {
+            "id": 3,
+            "name": "Iphone 3",
+            "price": 15000000,
+            "img": "img_03.png",
+            "des": "Iphone 15 đen (3)"
+        },
+        {
+            "id": 4,
+            "name": "Iphone 4",
+            "price": 15000000,
+            "img": "img_04.png",
+            "des": "Iphone 15 đen (4)"
+        },
+        {
+            "id": 5,
+            "name": "Iphone 5",
+            "price": 15000000,
+            "img": "img_05.png",
+            "des": "Iphone 15 đen (5)"
+        },
+        {
+            "id": 6,
+            "name": "Iphone 6",
+            "price": 15000000,
+            "img": "img_06.png",
+            "des": "Iphone 15 đen (6)"
+        },
+        {
+            "id": 7,
+            "name": "Iphone 7",
+            "price": 15000000,
+            "img": "img_07.png",
+            "des": "Iphone 15 đen (7)"
+        },
+        {
+            "id": 8,
+            "name": "Iphone 8",
+            "price": 15000000,
+            "img": "img_08.png",
+            "des": "Iphone 15 đen (8)"
+        },
+        {
+            "id": 9,
+            "name": "Iphone 9",
+            "price": 15000000,
+            "img": "img_08.png",
+            "des": "Iphone 15 đen (9)"
+        },
+        {
+            "id": 10,
+            "name": "Iphone 10",
+            "price": 15000000,
+            "img": "img_08.png",
+            "des": "Iphone 15 đen (10)"
+        }
+
+    ]
+}
