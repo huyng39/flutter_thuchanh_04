@@ -1,6 +1,6 @@
 import 'dart:convert';
 class Product{
-  String? id;
+  int? id;
   String? name;
   int? price;
   String? img;

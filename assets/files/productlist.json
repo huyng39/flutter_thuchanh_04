@@ -3,73 +3,73 @@
     [
         {
             "id": 1,
-            "name": "Iphone 1",
-            "price": 15000000,
-            "img": "img_01.png",
-            "des": "Iphone 15 đen (1)"
+            "name": "iPhone 15 Pro Max",
+            "price": 30990000,
+            "img": "img_1.jpg",
+            "des": "Iphone 15 PM đen 256GB"
         },
         {
             "id": 2,
-            "name": "Iphone 2",
-            "price": 15000000,
-            "img": "img_02.png",
-            "des": "Iphone 15 đen (2)"
+            "name": "iPhone 15 128GB",
+            "price": 19990000,
+            "img": "img_2.jpg",
+            "des": "Iphone 15 xanh lá 128GB"
         },
         {
             "id": 3,
-            "name": "Iphone 3",
+            "name": "iPhone 15 256GB",
             "price": 15000000,
-            "img": "img_03.png",
-            "des": "Iphone 15 đen (3)"
+            "img": "img_3.jpg",
+            "des": "Iphone 15 hồng"
         },
         {
             "id": 4,
-            "name": "Iphone 4",
-            "price": 15000000,
-            "img": "img_04.png",
-            "des": "Iphone 15 đen (4)"
+            "name": "iPhone 15 Pro 128GB",
+            "price": 27090000,
+            "img": "img_4.jpg",
+            "des": "iPhone 15 Pro Titan 128GB"
         },
         {
             "id": 5,
-            "name": "Iphone 5",
-            "price": 15000000,
-            "img": "img_05.png",
-            "des": "Iphone 15 đen (5)"
+            "name": "iPhone 13 128GB",
+            "price": 15290000,
+            "img": "img_5.jpg",
+            "des": "iPhone 13 trắng 128GB"
         },
         {
             "id": 6,
-            "name": "Iphone 6",
-            "price": 15000000,
-            "img": "img_06.png",
-            "des": "Iphone 15 đen (6)"
+            "name": "iPhone 14 Pro Max",
+            "price": 19990000,
+            "img": "img_6.jpg",
+            "des": "iPhone 14 PM 128GB tím"
         },
         {
             "id": 7,
-            "name": "Iphone 7",
-            "price": 15000000,
-            "img": "img_07.png",
-            "des": "Iphone 15 đen (7)"
+            "name": "iPhone 14 128GB",
+            "price": 17990000,
+            "img": "img_7.jpg",
+            "des": "iPhone 14 128GB tím nhạt"
         },
         {
             "id": 8,
-            "name": "Iphone 8",
-            "price": 15000000,
-            "img": "img_08.png",
-            "des": "Iphone 15 đen (8)"
+            "name": "iPhone 12 64GB",
+            "price": 12090000,
+            "img": "img_8.jpg",
+            "des": "iPhone 12 64GB trắng"
         },
         {
             "id": 9,
-            "name": "Iphone 9",
-            "price": 15000000,
-            "img": "img_08.png",
-            "des": "Iphone 15 đen (9)"
+            "name": "iPhone 11 64GB",
+            "price": 9990000,
+            "img": "img_9.jpg",
+            "des": "iPhone 11 64GB trắng"
         },
         {
             "id": 10,
-            "name": "Iphone 10",
-            "price": 15000000,
-            "img": "img_08.png",
-            "des": "Iphone 15 đen (10)"
+            "name": "iPhone 14 Plus 128GB",
+            "price": 20090000,
+            "img": "img_10.jpg",
+            "des": "iPhone 14 Plus 128GB blue"
         }
 
     ]
