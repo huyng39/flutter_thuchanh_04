@@ -33,7 +33,7 @@ class _CategoryWidgetState extends State<CategoryWidget> {
           child: Column(
             children: [
               const Text(
-                "Category list",
+                "Category list - Ngô Nhật Huy",
                 style: titleStyle,
               ),
               Expanded(child: ListView.builder(
